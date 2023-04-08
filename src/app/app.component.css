@@ -1,0 +1,20 @@
+
+/* .container
+{
+    position: relative;
+}*/
+
+.search
+{
+    text-align: center;
+    display: flex;
+    align-items: center;
+} 
+
+.search input
+{
+    border-radius: 20px;
+    border: none;
+    padding: 5px;
+
+}

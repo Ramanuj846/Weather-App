@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+/* https://api.openweathermap.org/data/2.5/forecast?q=delhi&appid=76c425f83d3dd4a696721e5d4d4cc3fe */
+
+@import '../node_modules/bootstrap/dist/css/bootstrap.css';
+@import '../node_modules/bootstrap-icons/font/bootstrap-icons.css';
+@import '~ngx-toastr/toastr';
+html,body,.container{
+    background-color: #8397d3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    /* width: 100vw; */
+    height: 100vh;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Desktop and Laptops */
+
+
+/* Tablets and Ipads */
+
+
+/* Mobile Phone */
+
+@media (max-width: 768px){
+    h1{
+
+    }
+}
